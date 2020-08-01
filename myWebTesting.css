@@ -1,0 +1,19 @@
+body {
+    background-color: lightyellow;
+    font-size:18px;
+    font-weight:lighter;
+    padding:10px;
+    margin:6px;
+    text-align: justify;
+    width:95%;
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    color:grey;
+}
+h2 {
+    color:yellowgreen;
+}
+h3 {
+    color:darkcyan;
+}
